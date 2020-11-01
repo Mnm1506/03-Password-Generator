@@ -1,4 +1,5 @@
 # 03-Password-Generator
+- This an application that generates a random password based on selected criteria.
 - Homework week-03 : Random Password Generator.
  
 ## Built with :
