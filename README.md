@@ -1,6 +1,9 @@
 # 03-Password-Generator
 - This is an application that generates a random password based on selected criteria.
 - Homework week-03 : Random Password Generator.
+
+## Link to deployed application :
+- https://mnm1506.github.io/03-Password-Generator/
  
 ## Built with :
 - HTML.
@@ -30,6 +33,7 @@ The password can include special characters.
 
 #### Screenshot of the result :
 ![sc](Assets\Capture.PNG)
+
 
 ##### Note :
 - The generated password will also contain randomly positioned spaces.
